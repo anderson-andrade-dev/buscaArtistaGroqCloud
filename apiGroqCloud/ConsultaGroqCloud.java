@@ -1,8 +1,8 @@
-package br.com.alura.screensound.APIGroqCloud;
+package apiGroqCloud;
 
-import br.com.alura.screensound.APIGroqCloud.record.Choice;
-import br.com.alura.screensound.APIGroqCloud.record.Message;
-import br.com.alura.screensound.APIGroqCloud.record.RequestGroqCloud;
+import apiGroqCloud.record.Choice;
+import apiGroqCloud.record.Message;
+import apiGroqCloud.record.RequestGroqCloud;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
