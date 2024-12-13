@@ -1,6 +1,6 @@
 ![Banner da ConsultaGroqCloud](https://i.imgur.com/4wT0GSx.png)
 
-# ConsultaGroqCloud API
+# Consulta Groq Cloud API
 
 API Java para integração com o **GroqCloud**, permitindo enviar perguntas e receber respostas estruturadas utilizando o modelo de linguagem avançado disponibilizado pela plataforma.
 
