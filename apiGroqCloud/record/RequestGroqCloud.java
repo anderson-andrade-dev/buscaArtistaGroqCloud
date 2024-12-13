@@ -1,4 +1,4 @@
-package br.com.alura.screensound.APIGroqCloud.record;
+package apiGroqCloud.record;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
